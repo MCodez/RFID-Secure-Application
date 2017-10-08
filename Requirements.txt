@@ -1,0 +1,13 @@
+Requirements:
+
+1. Arduino IDE
+2. Arduino UNO + Connector (Uno to PC)
+3. EM-18 Reader Module with RFID Tags
+4. Python Libraries
+	4.1 pyqt5
+	4.2 serial
+	4.3 sqlite3
+	4.4 smtplib
+	4.5 email
+	4.6 datetime
+	4.7 threading
